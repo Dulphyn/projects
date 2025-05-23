@@ -1,0 +1,9 @@
+NicolasValdezAge.py
+First use of pyinputplus, and it is here to stay. I made sure to be careful with greater than versus greater than or equal to.
+The if statements held sound logic and I properly used the else keyword instead of making another redundant comparison.
+
+NicolasValdezLeapYear.py
+Nothing particularly interesting to note. Nothing wrong with any logic. Remembered to put a minimum year of zero.
+
+NicolasValdezShipping.py
+Nothing new here.
