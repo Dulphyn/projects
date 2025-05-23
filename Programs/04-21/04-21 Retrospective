@@ -1,0 +1,21 @@
+NicolasValdezCharAnalysis.py
+Just more practice with string comprehension.
+
+NicolasValdezDate.py
+First time interacting with dates. Spent a lot of time learning what stuff like strftime and strptime meant.
+This knowledge would become essential for the next program.
+
+NicolasValdezGas.py
+This program took a relatively extremely long amount of time to write. While the method I used may be overkill, I decided
+that making a pivot table through the pandas library would give me insight into a very relevant skill for the career
+path that I wanted to pursue. 
+
+I had to search through a plentitude of guides and tutorials on this library and thankfully,
+after 15+ hours of working on this program, I actually managed to wrap my head around this library. This one program
+essentially tested nearly every single skill I had learned in Python so far. 
+
+From the basics to the skills I had just learned, I had to use decision trees for the user to interact with a menu. 
+I had to read data from a file both through the standard method and through pandas. I then had to write to write my 
+results to a different file. I had to write functions, and in those functions, I had to use the date formatting I just learned. 
+
+This is the program I am most proud of writing in this class because of the skills it taught me and reinforced.
