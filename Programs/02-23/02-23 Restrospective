@@ -1,0 +1,13 @@
+This was my first exam for the class.
+
+NicolasValdezCookout.py
+First use of tabulate, well done. I could have defined the headers separately like I did with the table for better readability.
+The program still works perfectly fine though. I do remember the calculation section almost tripping me up.
+
+NicolasValdezGrapevines.py
+I remember having to pull out a piece of paper and draw the problem down by hand. This helped me better understand the logic.
+
+NicolasValdezTuition.py
+I do remember there being some part of tabulate that I didn't know how to integrate while having my data come from a for loop,
+and I think that's because I didn't think to use some kind of list. Improvised well that even comes with easily editable format
+config options. 
