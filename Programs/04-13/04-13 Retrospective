@@ -1,1 +1,20 @@
+Second exam!
+
 NicolasValdezFileRead.py
+Discovered the zip function, I have loved its existence ever since. I have also started to better document my functions.
+I made sure to properly handle the pairing of different length files.
+
+NicolasValdezSaveRecords.py
+I should have formatted the information in a more readable format than a tuple for reasons seen in the next program. 
+
+NicolasValdezViewRecords.py
+Due to me writing the names and scores as a tuple, I found that the easiest way to band-aid fix this was to use the ast library
+and do a literal evaluation of the tuple which seems scuffed and even though I made the deliberate choice
+to not use the Python native eval function, I have a feeling there is still some security issues which I am unaware of.
+
+NicolasValdezPaint.py
+Most notable part of this program was that I was able to properly handle the more complex required formatting options.
+
+NicolasValdezGuess.py
+First time interacting with random numbers. Hardest part was learning how to test if the random number generator was set
+to the correct interval.
