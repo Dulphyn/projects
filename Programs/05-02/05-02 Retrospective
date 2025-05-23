@@ -1,0 +1,16 @@
+Car.py
+First time interacting with classes and technically making a library, although this is literally one object. I do recall my first impression being something along the lines of,
+"This is weird, but I understand why it exists." This file was based off a given template.
+
+NicolasValdezCarClass.py
+First time importing my own library. Got a better understanding of the innerworkings of all the other libraries I have been
+using all this time.
+
+NicolasValdezCourse.py
+First time creating my own dictionary from scratch.
+
+NicolasValdezDecryption.py
+First time using any type of comprehension. Seems very useful but at risk of being hard to understand.
+
+NicolasValdezEncryption.py
+Used str.maketrans which was cool to learn about.
