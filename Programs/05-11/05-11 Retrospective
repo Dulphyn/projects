@@ -1,0 +1,13 @@
+Final exam!!
+
+NicolasValdez8Ball.py
+Done this kind of program so many times that there truly isnt anything remotely new besides 
+the use of a random number generator.
+
+NicolasValdezPennies.py
+I only now realize that I forgot to comment what one of my functions does. Thankfully coinToValue is a very simple function.
+Not sure why I didn't write the values in the main program and then pass them to the function instead. One thing
+some might consider slightly interesting was that I had to convert a zip data type into a list data type.
+
+NicolasValdezVowCons.py
+Made some necessary clarifying comments about what does and doesn't count as a vowel or consonant. Simple everything else.
