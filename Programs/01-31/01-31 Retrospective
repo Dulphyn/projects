@@ -1,1 +1,15 @@
-Temporary text
+NicolasValdezTempConvert.py 
+This was my first time using Python. Trying to figure out good formatting and good practices. One can see that I wasn't too sure how much detail
+I needed to explicitly mention and how much detail I could leave as implied to the reader. I didn't know
+how to use libraries yet. Overall, I would give myself very positive feedback because I put good comments and the code is
+obvious in its goal. Last thing of note, you will see that I use double quotation marks ("") 
+instead of singular quotation marks ('') for the next while. This is really because I didn't yet understand how annoying
+it would become to use double quotation marks all the time.
+
+NicolasValdezInterest.py
+I am not sure if this was the second or third program but either way its a good show of progress. Good naming of variables,
+clear and concise input prompts, good commenting, good formula.
+
+NicolasValdezTipTaxTotal.py
+Made sure to make good use of previously calculated values instead of doing whole calculations again. Made sure to do 
+proper formatting. Made sure to write my constants elsewhere so the reader can understand what the numbers mean.
