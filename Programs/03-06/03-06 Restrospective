@@ -1,0 +1,7 @@
+NicolasValdezFileWork1.py
+I was very excited to start working with files as this kind of thing has been a point of curiousity for me for ages.
+Thankfully, this was not very difficult to get working although the new exception handling was kind of annoying to get used to.
+
+NicolasValdezFileWork2.py
+This is basically NicolasValdezFileWork1.py but half the code is stuck into a function. The txtToList function will see
+great use with slightly modifications for basically the rest of the semester.
