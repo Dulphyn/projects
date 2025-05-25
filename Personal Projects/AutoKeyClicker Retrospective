@@ -1,0 +1,5 @@
+These three versions of my AutoKeyClicker program were an attempt to make a GUI program which can click the left mouse button for you. Unfortunately, I was not able to get a fully functioning
+program of this with my current skills and knowledge. However, just because I couldn't make the final product, doesn't mean I didn't learn anything while trying. I am now somewhat
+capable with the tkinter library and at least vaguely familiar with the pygame, pynput, mouse, keyboard, asyncio, and threading libraries.
+
+The most notable part of this learning experience was definitely messing with tkinter widgets however the short dive into asynchronous programming with asyncio and threading. 
