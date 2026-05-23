@@ -1,2 +1,2 @@
 # projects
-Contains the work done during my time learning Python in my college computer science course. Includes all my work done during my college course on Python as well as any personal projects I would like to share, regardless of their completion status.
+Has the computer science projects I have done and wanted to share. Includes both school-related and personal projects.
